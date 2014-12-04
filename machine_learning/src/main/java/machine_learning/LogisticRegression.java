@@ -15,7 +15,7 @@ import java.util.Random;
 
 /**
  *
- * @author Nikos Zacheilas
+ * @author Christos Boursinos
  */
 public class LogisticRegression extends MachineLearningAlgorithm implements Classifier {
     /*the weights ArrayList.*/
