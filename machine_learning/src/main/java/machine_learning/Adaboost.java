@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Juliana
+ * @author Juliana Litou
  */
 public class Adaboost extends MachineLearningAlgorithm implements Classifier {
 
