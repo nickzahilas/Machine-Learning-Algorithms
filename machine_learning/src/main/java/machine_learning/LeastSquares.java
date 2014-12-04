@@ -17,7 +17,7 @@ import java.util.Random;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class LeastSquares extends MachineLearningAlgorithm {
     /*the k parameter that will be the number of neighbors we will get.*/

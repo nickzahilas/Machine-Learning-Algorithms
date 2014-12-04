@@ -15,7 +15,7 @@ import java.util.Random;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public abstract class MachineLearningAlgorithm {
     /*the reader that will be used to access the data from the correct file.*/

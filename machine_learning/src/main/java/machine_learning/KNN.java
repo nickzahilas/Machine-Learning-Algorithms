@@ -14,7 +14,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class KNN extends MachineLearningAlgorithm implements Classifier {
     

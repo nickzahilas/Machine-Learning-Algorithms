@@ -13,7 +13,7 @@ import java.util.Random;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class DataReader {
     /*the number of attributes we will have.*/

@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class MachineLearning {
     /*-------Basic Definitions-------*/

@@ -1,7 +1,11 @@
 package common;
 
 
-/*this class will help us do the neccessary calculations in our other classes.*/
+/**
+ * The class that helps us do the necessary calculations in our other classes.
+ * @author Nikos Zacheilas
+ *
+ */
 public class Calculator {
     
     /*the inner product of two vectors.*/

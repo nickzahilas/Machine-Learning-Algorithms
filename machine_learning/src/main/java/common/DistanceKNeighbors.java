@@ -6,7 +6,7 @@ package common;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class DistanceKNeighbors {
     /*the distance between the neighbor and the example to be classified, or used

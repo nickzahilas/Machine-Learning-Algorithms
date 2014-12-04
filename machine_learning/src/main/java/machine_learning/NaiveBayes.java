@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class NaiveBayes extends MachineLearningAlgorithm implements Classifier {
     

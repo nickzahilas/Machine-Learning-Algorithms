@@ -2,7 +2,7 @@
 package common;
 /**
  *
- * @author Nick
+ * @author Nick Zacheilas
  */
 public class DataNormalizer {
     double[] values;

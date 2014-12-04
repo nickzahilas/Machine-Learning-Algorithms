@@ -7,7 +7,7 @@ package machine_learning;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public interface Classifier {
     /*the function that will be used in order to train our algorithm.*/

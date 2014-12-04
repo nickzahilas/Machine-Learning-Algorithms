@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nick
+ * @author Nikos Zacheilas
  */
 public class Evaluation {
     /*it will tell us if the algorithm we are testing is a classifier or

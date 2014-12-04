@@ -5,7 +5,7 @@ package common;
 
 /**
  *
- * @author user
+ * @author Nikos Zacheilas
  */
 public class Example {
     private double[] attributesValues;
